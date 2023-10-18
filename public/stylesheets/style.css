@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: rgb(39, 39, 39);
+  display: flex;
+  justify-content: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#canvas {
+  margin-top: 0px;
+  z-index: 10;
+}
