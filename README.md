@@ -1,6 +1,7 @@
 # Multiplayer pong-game
 
 Projeto que foi feito para estudar mais sobre Web Sockets com Node.
+Criando um mini jogo de "pong". No qual um jogador precisa esperar outro se conectar pra iniciar um jogo.
 
 Assuntos como
  - Socket.io
